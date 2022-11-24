@@ -1,12 +1,17 @@
-package org.tnsindia.Constructordemo;
-
+package org.tnsindia.constructordemo;
+//driver class
 public class ConstructorExecutor {
 
 	public static void main(String[] args) {
-		// object employee
+		
+		
+		//object creation
 		Employee e=new Employee();
-		Employee e1=new Employee(3648,"bala");
+		Employee e1=new Employee(25000,"Bala");
+		Employee e2=new Employee(45000,"Chaitali");
+
 		e1.print();
+		e2.print();
 
 	}
 
