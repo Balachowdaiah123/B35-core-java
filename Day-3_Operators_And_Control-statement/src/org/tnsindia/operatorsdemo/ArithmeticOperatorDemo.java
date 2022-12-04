@@ -8,8 +8,8 @@ public class ArithmeticOperatorDemo {
 	public static void main(String[] args) {
 		Scanner s = new Scanner(System.in);
 		System.out.println("Enter the value of a and b:");
-		int a = s.nextInt();
-		int b = s.nextInt();
+		int a =4;   //s.nextInt();
+		int b =4;    // s.nextInt();
 		System.out.println("The addition is: " + (a + b));
 		System.out.println("The addition is: " + (a - b));
 		System.out.println("The addition is: " + (a * b));

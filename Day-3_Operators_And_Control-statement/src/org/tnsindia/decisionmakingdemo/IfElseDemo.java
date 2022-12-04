@@ -6,13 +6,16 @@ public class IfElseDemo {
 
 	public static void main(String[] args) {
 		Scanner s = new Scanner(System.in);
-		int a = s.nextInt();
-		int b = s.nextInt();
+		int a =99; //s.nextInt();
+		int b =100; //s.nextInt();
 
 		// if..else statement(when two things will going be check)
 		if (a > b) {
 			System.out.println("A is greater" + a);
-		} else {
+		} 
+		
+		
+		else {
 			System.out.println("B is greater" + b);
 		}
 
