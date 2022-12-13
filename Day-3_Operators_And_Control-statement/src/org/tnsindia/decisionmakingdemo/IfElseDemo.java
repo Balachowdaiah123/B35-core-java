@@ -13,8 +13,6 @@ public class IfElseDemo {
 		if (a > b) {
 			System.out.println("A is greater" + a);
 		} 
-		
-		
 		else {
 			System.out.println("B is greater" + b);
 		}
