@@ -9,6 +9,7 @@ public class CascadedIfElseDemo {
 		int a = s.nextInt();
 		int b = s.nextInt();
 		int c = s.nextInt();
+	
 		// Cascaded if --else statement(when more than two things will going be check)
 		if (a > b && a > c) {
 			System.out.println("A is greater" + a);
