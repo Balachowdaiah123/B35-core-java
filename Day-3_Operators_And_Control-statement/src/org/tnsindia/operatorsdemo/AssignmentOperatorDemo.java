@@ -3,7 +3,7 @@ package org.tnsindia.operatorsdemo;
 
 import java.util.Scanner;
 
-public class AssignmentOperatorDemo {
+public class AssignmentOperatorDemo {i
 
 	public static void main(String[] args) {
 		Scanner s = new Scanner(System.in);

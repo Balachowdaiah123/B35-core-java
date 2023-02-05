@@ -14,13 +14,13 @@ public class IncrementDecrementDemo {
 		System.out.println(y);// 14
 
 		// decrement
-		int x = 4, z = 11;
+		/*int x = 4, z = 11;
 		--x;// 3
 		z--;// 11
 		int p = ++z;// 11
 		System.out.println(x);// 3
 		System.out.println(p);// 11
-
+*/
 	}
 
 }

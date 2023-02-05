@@ -9,7 +9,7 @@ public class EnhancedForLoopDemo {
 		 * for(int itr:arr) { System.out.println(itr); }
 		 */
 
-		char x[] = { 'A', 'B' };
+		char x[] = { 'Z', 'B' };
 		for (int itr : x) {
 			System.out.println(itr);
 

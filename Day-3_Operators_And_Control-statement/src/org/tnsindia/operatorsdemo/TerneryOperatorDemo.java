@@ -1,3 +1,4 @@
+
 package org.tnsindia.operatorsdemo;
 //demo on Ternary  operator
 
